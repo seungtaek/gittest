@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C0A3-99A7
+
+ Directory of C:\Users\seungtaek\Desktop\git test
+
+2020-02-02  ?? 11:22    <DIR>          .
+2020-02-02  ?? 11:22    <DIR>          ..
+2020-02-02  ?? 11:21                 7 test1.txt
+2020-02-02  ?? 11:22                 0 test2.txt
+               2 File(s)              7 bytes
+               2 Dir(s)  65,042,808,832 bytes free
